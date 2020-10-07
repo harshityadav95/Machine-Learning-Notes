@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Linear Regression](README.md)
+* [Logistic Regression](logistic-regression.md)
+* [Visualisation](visualisation.md)
 
