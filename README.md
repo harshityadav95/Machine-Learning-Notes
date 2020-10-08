@@ -122,6 +122,11 @@ To calculate the results for both train and test data, a popular metric is the R
 
 Running a model with different Train-Test Split will lead to different results. This is where **5-Fold Cross Validation** comes in where we split the data into “_k”_ equal sections of data, with each linear model using a different section of data as the test data and all other sections combined as the training set.
 
+### More Detailed Notes:
+
+*  [Ml\_Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+* More with Better Diagram [\[Stanford\]](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+
 **Sources**
 
 * [https://flatironschool.com/career-courses/data-science-bootcamp/online](https://flatironschool.com/career-courses/data-science-bootcamp/online)
