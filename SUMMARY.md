@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Linear Regression](README.md)
+* [Bayes’ Rule](bayes-rule.md)
 * [Logistic Regression](logistic-regression.md)
 * [Visualisation](visualisation.md)
 * [Version Control](version-control.md)
