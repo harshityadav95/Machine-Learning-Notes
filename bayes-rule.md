@@ -55,3 +55,30 @@ There are many applications of naive Bayes including:
 
 This method is usually used as a simple baseline. It also really fast.
 
+### Naïve Bayes Assumptions
+
+Naïve Bayes makes the independence assumption and is affected by the word frequencies in the corpus. For example, if you had the following
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/pC16f7D2SXuten-w9tl7EA_ae52465e445d4860940a42f9a916ad9d_Screen-Shot-2020-09-16-at-10.30.10-AM.png?expiry=1602547200000&hmac=pJZTtyB6DanuA5NcrbNtzhwynu1yJnkmrZF5_Ev0CfA)
+
+In the first image, you can see the word sunny and hot tend to depend on each other and are correlated to a certain extent with the word "desert". Naive Bayes assumes independence throughout. Furthermore, if you were to fill in the sentence on the right, this naive model will assign equal weight to the words "spring, summer, fall, winter".![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FMyHLVY0SeeMhy1WNMnnFQ_27510d24657b41d99277b77279ec17ff_Screen-Shot-2020-09-16-at-10.42.46-AM.png?expiry=1602547200000&hmac=aACKyKgA4rG1QDubqzpu_X_6Eoh9JhI7fEO9DyYudts)
+
+On Twitter, there are usually more positive tweets than negative ones. However, some "clean" datasets you may find are artificially balanced to have to the same amount of positive and negative tweets. Just keep in mind, that in the real world, the data could be much noisier.
+
+### Error Analysis
+
+There are several mistakes that could cause you to misclassify an example or a tweet. For example,
+
+* Removing punctuation
+* Removing words
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/giZyxTjMTEymcsU4zKxMAQ_6274170aa628466d97f59327c65636b4_Screen-Shot-2020-09-16-at-11.01.13-AM.png?expiry=1602547200000&hmac=sF0Qu3JcW324B60yiajN2JAuASOdJDg5TEMm4hKyzTw)
+
+* Word order
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/h9jdVmMSQmiY3VZjEuJoMQ_bd211df163ad42189f92d9b902c7e5e6_Screen-Shot-2020-09-16-at-10.50.55-AM.png?expiry=1602547200000&hmac=miabYMhto7pF_VKUuFNjPKfFl0wY8ihJTH6RBP0leJY)
+
+* Adversarial attacks
+
+These include sarcasm, irony, euphemisms.
+
