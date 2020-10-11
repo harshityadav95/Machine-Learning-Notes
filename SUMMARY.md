@@ -35,5 +35,7 @@
 
 ---
 
+* [Distance](distance.md)
 * [Numpy](numpy.md)
+* [Cosine Similarity](cosine-similarity.md)
 
