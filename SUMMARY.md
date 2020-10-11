@@ -33,3 +33,7 @@
 
 * [Twitter Sentiment Classifier](natural-language-processing-1/twitter-sentiment-classifier.md)
 
+---
+
+* [Numpy](numpy.md)
+
