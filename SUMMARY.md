@@ -38,4 +38,5 @@
 * [Distance](distance.md)
 * [Numpy](numpy.md)
 * [Cosine Similarity](cosine-similarity.md)
+* [Principal Component Analysis](principal-component-analysis.md)
 

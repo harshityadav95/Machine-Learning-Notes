@@ -2,13 +2,13 @@
 
 ### Laplacian Smoothing
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 ### Log Likelihood, Part 1
 
 To compute the log likelihood, we need to get the ratios and use them to compute a score that will allow us to decide whether a tweet is positive or negative. The higher the ratio, the more positive the word is:![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jRdwvis8SNCXcL4rPMjQlg_d8b30951c82b4b9f8f20b8f0e56d0a83_Screen-Shot-2020-09-08-at-4.01.25-PM.png?expiry=1602547200000&hmac=E02nZ-tlIh4eN9vI98nZ-jA9gICUQYH_q15qVzIkWJg)
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/I1jOUPkpSRmYzlD5KSkZUg_8d00fbc64ac94b9a9d9c41d367288447_Screen-Shot-2020-09-08-at-4.10.13-PM.png?expiry=1602547200000&hmac=qIUvVakg2SjnGDIU__zNIclelY8W8B6R9V1fP0Hzg6w)
 
