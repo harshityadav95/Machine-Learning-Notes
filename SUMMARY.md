@@ -40,3 +40,7 @@
 * [Cosine Similarity](cosine-similarity.md)
 * [Principal Component Analysis](principal-component-analysis.md)
 
+## ML in Future Study
+
+* [Topics to Lookout for](ml-in-future-study/topics-to-lookout-for.md)
+
