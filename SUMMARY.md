@@ -2,6 +2,7 @@
 
 * [Linear Regression](README.md)
 * [Bayes’ Rule](bayes-rule.md)
+* [Laplace Smoothing](laplace-smoothing.md)
 * [Logistic Regression](logistic-regression.md)
 * [Visualisation](visualisation.md)
 * [Version Control](version-control.md)
@@ -31,4 +32,11 @@
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
 * [Twitter Sentiment Classifier](natural-language-processing-1/twitter-sentiment-classifier.md)
+
+---
+
+* [Distance](distance.md)
+* [Numpy](numpy.md)
+* [Cosine Similarity](cosine-similarity.md)
+* [Principal Component Analysis](principal-component-analysis.md)
 
