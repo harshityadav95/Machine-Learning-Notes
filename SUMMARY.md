@@ -31,6 +31,7 @@
 
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
+* [Language Translation](natural-language-processing-1/language-translation.md)
 * [Twitter Sentiment Classifier](natural-language-processing-1/twitter-sentiment-classifier.md)
 
 ---
@@ -39,4 +40,13 @@
 * [Numpy](numpy.md)
 * [Cosine Similarity](cosine-similarity.md)
 * [Principal Component Analysis](principal-component-analysis.md)
+
+## ML in Future Study
+
+* [Topics to Lookout for](ml-in-future-study/topics-to-lookout-for.md)
+
+---
+
+* [Glossary and Terms](glossary-and-terms.md)
+* [AI-900T00-A](ai-900t00-a.md)
 
