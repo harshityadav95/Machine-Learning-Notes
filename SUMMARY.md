@@ -44,3 +44,7 @@
 
 * [Topics to Lookout for](ml-in-future-study/topics-to-lookout-for.md)
 
+---
+
+* [Glossary and Terms](glossary-and-terms.md)
+
