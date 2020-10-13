@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Linear Regression](README.md)
+* [Readme.md](README.md)
 * [Bayes’ Rule](bayes-rule.md)
 * [Laplace Smoothing](laplace-smoothing.md)
 * [Logistic Regression](logistic-regression.md)
@@ -49,4 +49,5 @@
 
 * [Glossary and Terms](glossary-and-terms.md)
 * [AI-900T00-A](ai-900t00-a.md)
+* [Linear Regression](linear-regression.md)
 
