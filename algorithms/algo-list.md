@@ -1,8 +1,6 @@
 # Algo List
 
-
-
-#### **Top 10 Machine Learning Algorithms**
+## **Top 10 Machine Learning Algorithms**
 
 1. Logistic Regression
 2. K -Nearest Nighbours

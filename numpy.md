@@ -11,5 +11,3 @@
 * Get the mean by rows or columns
 * Center the columns of a matrix
 
-
-

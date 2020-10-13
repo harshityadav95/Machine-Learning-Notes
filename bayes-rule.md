@@ -1,6 +1,6 @@
 # Bayes’ Rule
 
-### Bayes' Rule
+## Bayes' Rule
 
 Conditional probabilities help us reduce the sample search space. For example given a specific event already happened, i.e. we know the word is happy:![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xoYzIfcHT0uGMyH3B69LQw_3b10c11c4a504416b8ea133f0c974995_Screen-Shot-2020-09-08-at-1.23.56-PM.png?expiry=1602460800000&hmac=3EhEL1eIleJR6gVvDAvhMPtkkA4gte__2TJjEldYYFE)
 
@@ -12,7 +12,7 @@ Note that we multiplied by P\(positive\) to make sure we don't change anything. 
 
 P\(X\|Y\) = \frac{P\(Y\|X\) P\(X\)}{P\(Y\)}P\(X∣Y\)=P\(Y\)P\(Y∣X\)P\(X\)​.
 
-### Naive Bayes Introduction
+## Naive Bayes Introduction
 
 To build a classifier, we will first start by creating conditional probabilities given the following table:![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/fwihrJk_RSGIoayZPxUhTQ_3cd35492d526492dbcae2e4baa02bdf4_Screen-Shot-2020-09-08-at-3.38.05-PM.png?expiry=1602547200000&hmac=RpfKzCtoz4xR_9gOKWOOCgCbAkENz7tIqi5eFnPWNPk)
 
@@ -22,7 +22,7 @@ Once you have the probabilities, you can compute the likelihood score as follows
 
 A score greater than 1 indicates that the class is positive, otherwise it is negative.
 
-###  Log Likelihood, Part 1 <a id="log-likelihood-part-1"></a>
+## Log Likelihood, Part 1 <a id="log-likelihood-part-1"></a>
 
 ‌
 
@@ -30,7 +30,7 @@ To compute the log likelihood, we need to get the ratios and use them to compute
 
 Having the \lambdaλ dictionary will help a lot when doing inference.‌
 
-### Log Likelihood Part 2 <a id="log-likelihood-part-2"></a>
+## Log Likelihood Part 2 <a id="log-likelihood-part-2"></a>
 
 ‌
 
@@ -38,13 +38,13 @@ Once you computed the \lambdaλ dictionary, it becomes straightforward to do inf
 
 As you can see above, since 3.3 &gt; 03.3&gt;0 , we will classify the document to be positive. If we got a negative number we would have classified it to the negative class.​![](https://gblobscdn.gitbook.com/assets%2F-MJ0Zq3ebnnCuonyonEY%2F-MJLhFTkKdTT-jdZG-aA%2F-MJMAt08jrLOF3iP91_0%2Fimage.png?alt=media&token=f8065c4a-13a9-4a28-afca-8bf3f36c66de)‌
 
-### Testing naïve Bayes <a id="testing-naive-bayes"></a>
+## Testing naïve Bayes <a id="testing-naive-bayes"></a>
 
 ​![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/DBzYqctbQdSc2KnLW5HURA_3de7717134ec4f3ea36f9318083b60c6_Screen-Shot-2020-09-08-at-4.42.03-PM.png?expiry=1602547200000&hmac=Op0bzkD649k9EDajNj7eAlthFR5vJ6ow-yg2Ri6wuMk)‌
 
 The example above shows how you can make a prediction given your \lambdaλ dictionary. In this example the logpriorlogprior is 0 because we have the same amount of positive and negative documents \(i.e. \log 1 = 0log1=0\).
 
-### Applications of Naive Bayes
+## Applications of Naive Bayes
 
 There are many applications of naive Bayes including:
 
@@ -55,7 +55,7 @@ There are many applications of naive Bayes including:
 
 This method is usually used as a simple baseline. It also really fast.
 
-### Naïve Bayes Assumptions
+## Naïve Bayes Assumptions
 
 Naïve Bayes makes the independence assumption and is affected by the word frequencies in the corpus. For example, if you had the following
 
@@ -65,7 +65,7 @@ In the first image, you can see the word sunny and hot tend to depend on each ot
 
 On Twitter, there are usually more positive tweets than negative ones. However, some "clean" datasets you may find are artificially balanced to have to the same amount of positive and negative tweets. Just keep in mind, that in the real world, the data could be much noisier.
 
-### Error Analysis
+## Error Analysis
 
 There are several mistakes that could cause you to misclassify an example or a tweet. For example,
 

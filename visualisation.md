@@ -1,7 +1,5 @@
 # Visualisation
 
-
-
 **Basic Building tools for ML and Data Science**
 
 * [Numpy Explained Visually](https://jalammar.github.io/visual-numpy/)

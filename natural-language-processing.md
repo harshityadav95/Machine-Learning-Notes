@@ -1,7 +1,5 @@
 # Natural Language Processing
 
-
-
 ## NLP Engine
 
 Creating a Search Engine and NLP recommendation System
@@ -15,7 +13,7 @@ How to Being with searching and what topics to lookup
 * How to make search engine using logstash and Elasticseach \(ELK stack\)
 * predict next word in a sentence from given text 
 
-#### Cloud API choice
+### Cloud API choice
 
 * Algolia Seach API  
 * Azure Cognitive Search

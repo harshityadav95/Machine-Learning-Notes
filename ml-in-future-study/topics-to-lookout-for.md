@@ -1,7 +1,5 @@
 # Topics to Lookout for
 
-
-
 A few interesting topics to pay attention to in the next few years if you are an ML engineer/researcher:
 
 * simulations

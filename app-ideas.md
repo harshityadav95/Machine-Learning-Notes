@@ -1,6 +1,6 @@
 # App Ideas
 
-*  IDEA 1: AI based Apps for Healthcare Tools & Equipments
+* IDEA 1: AI based Apps for Healthcare Tools & Equipments
 
   IDEA 2: AI Based IT Services Apps
 

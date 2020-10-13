@@ -1,7 +1,5 @@
 # Interview Questions
 
-
-
 **Example Apple Data Scientist technical screen questions:**
 
 * _Given a list of integers, find the index at which the sum of the left half of the array is equal to the right half._
