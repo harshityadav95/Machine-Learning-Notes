@@ -31,6 +31,7 @@
 
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
+* [Language Translation](natural-language-processing-1/language-translation.md)
 * [Twitter Sentiment Classifier](natural-language-processing-1/twitter-sentiment-classifier.md)
 
 ---
