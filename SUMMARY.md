@@ -5,7 +5,7 @@
 * [Laplace Smoothing](laplace-smoothing.md)
 * [Logistic Regression](logistic-regression.md)
 * [Visualisation](visualisation.md)
-* [Version Control](version-control.md)
+* [Version Control In ML Models](version-control.md)
 * [Natural Language Processing](natural-language-processing.md)
 * [Tools](tools.md)
 

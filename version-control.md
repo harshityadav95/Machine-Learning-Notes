@@ -1,4 +1,4 @@
-# Version Control
+# Version Control In ML Models
 
 
 
@@ -8,4 +8,9 @@
 * Version control using github
 * MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. MLflow currently offers four components
 * MLFlow using Git+ DVC combined
-* 
+
+## Try DVC
+
+* [https://towardsdatascience.com/version-control-ml-model-4adb2db5f87c](https://towardsdatascience.com/version-control-ml-model-4adb2db5f87c)
+* [https://towardsdatascience.com/start-version-controlling-your-machine-learning-datasets-2b872e109856](https://towardsdatascience.com/start-version-controlling-your-machine-learning-datasets-2b872e109856)
+
