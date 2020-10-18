@@ -10,7 +10,25 @@
 
 * Introduction to Machine Learning.
 * Major Machine Learning Algorithms.
-* Supervised vs. Unsupervised Learning.
+* Supervised vs. Unsupervised Learning
+  *   Example of supervised learning algorithms :
+
+    * Linear Regression
+    * Logistic Regression
+    * K-Nearest Neighbors
+    * Decision Tree
+    * Random Forest
+    * Support Vector Machine
+
+
+
+    Examples of unsupervised learning algorithms:
+
+    * Dimension Reduction
+    * Density Estimation
+    * Market Basket Analysis
+    * Generative adversarial networks \(GANs\)
+    * Clustering
 * Linear Regression.
 * Multivariable Linear Regression.
 * Polynomial Regression.
