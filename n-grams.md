@@ -46,5 +46,51 @@
 
 ![](.gitbook/assets/image%20%2884%29.png)
 
+![](.gitbook/assets/image%20%28100%29.png)
+
+![](.gitbook/assets/image%20%2885%29.png)
+
+![](.gitbook/assets/image%20%2897%29.png)
+
+### Problem faced
+
+![](.gitbook/assets/image%20%28103%29.png)
+
+![](.gitbook/assets/image%20%2886%29.png)
+
+![](.gitbook/assets/image%20%28105%29.png)
+
+![](.gitbook/assets/image%20%2890%29.png)
+
+![](.gitbook/assets/image%20%28102%29.png)
+
+![](.gitbook/assets/image%20%28106%29.png)
+
+![](.gitbook/assets/image%20%2899%29.png)
+
+![](.gitbook/assets/image%20%2891%29.png)
+
+![Target Perplexity is 20-60](.gitbook/assets/image%20%2898%29.png)
+
+### When Words are not in language model  / Out of vocabulary words
+
+![](.gitbook/assets/image%20%2893%29.png)
+
+![](.gitbook/assets/image%20%28104%29.png)
+
+![](.gitbook/assets/image%20%2894%29.png)
+
+![](.gitbook/assets/image%20%2887%29.png)
+
+### Smoothing
+
+![](.gitbook/assets/image%20%2889%29.png)
+
+![](.gitbook/assets/image%20%2892%29.png)
+
+![](.gitbook/assets/image%20%2888%29.png)
+
+![](.gitbook/assets/image%20%2896%29.png)
+
 
 
