@@ -56,4 +56,5 @@
 * [Markov Chain](markov-chain.md)
 * [N-Grams](n-grams.md)
 * [Mode Accuracy](mode-accuracy.md)
+* [Word Embeddings](word-embeddings.md)
 
