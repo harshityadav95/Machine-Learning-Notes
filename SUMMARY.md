@@ -57,4 +57,6 @@
 * [N-Grams](n-grams.md)
 * [Mode Accuracy](mode-accuracy.md)
 * [Word Embeddings](word-embeddings.md)
+* [Types of Data Partioning](types-of-data-partioning.md)
+* [Data Leakage / Target Leakage in Machine Learning](data-leakage-target-leakage-in-machine-learning.md)
 
