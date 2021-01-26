@@ -28,6 +28,7 @@
 ## Algorithms
 
 * [Algorithm List](algorithms/algo-list.md)
+* [K-Nearest Neighbors](algorithms/k-nearest-neighbors.md)
 
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
