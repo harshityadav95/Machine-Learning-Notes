@@ -63,4 +63,5 @@
 * [Dev Playgrounds](dev-playgrounds.md)
 * [Untitled](untitled-1.md)
 * [\_\_\_ 2vec](___-2vec.md)
+* [ML Approaches](ml-approaches.md)
 
