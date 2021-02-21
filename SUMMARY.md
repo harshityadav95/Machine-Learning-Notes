@@ -29,7 +29,7 @@
 
 * [Algorithm List](algorithms/algo-list.md)
 * [K-Nearest Neighbors](algorithms/k-nearest-neighbors.md)
-* [Untitled](algorithms/untitled.md)
+* [DBSCAN](algorithms/untitled.md)
 
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
