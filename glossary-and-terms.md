@@ -12,5 +12,17 @@
 
 ### Eigen Vectors
 
+### Feature Selection  
+
+*  Univariate filtering , Pearson Correlation
+* Backward sequential feature selction  
+* Random forest + descision tree
+
+### Dimensionality Reduction  \(Feature extraction\)
+
+* Principal Component Analaysis
+* Singular Value Decomposition
+* Linear Discriminant Analysis 
+* 
 
 
