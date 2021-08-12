@@ -19,3 +19,11 @@ Replacement  Approximate Nearest Neighbors \(ANN\)
 3. Facebook’s \[[Faiss](https://github.com/facebookresearch/faiss)\]
 4. And my personal favorite: Hierarchical Navigable Small World graphs \[[HNSW](https://github.com/nmslib/hnswlib)\]
 
+
+
+### Refernce  
+
+* [Vector Index Local Sensitve Hashing](https://www.pinecone.io/learn/vector-indexes/)
+
+
+
