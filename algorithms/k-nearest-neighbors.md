@@ -1,11 +1,5 @@
 # K-Nearest Neighbors
 
-
-
-
-
-### 
-
 ## [KNN \(K-Nearest Neighbors\) is Dead!](https://medium.com/towards-artificial-intelligence/knn-k-nearest-neighbors-is-dead-fc16507eb3e) <a id="db10"></a>
 
 ### Long live ANNs for their whopping 380X speedup over sklearn’s KNN while delivering 99.3% similar results <a id="5fcf"></a>
