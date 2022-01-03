@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # Linear Regression
+
+
 
 ### [Introduction](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html#id12)
 
@@ -7,13 +8,13 @@ Linear Regression is a supervised machine learning algorithm where the predicted
 
 **Simple regression**
 
-**Simple Linear Regression** uses a single feature \(one independent variable\) to model a linear relationship with a target \(one dependent variable\) by fitting the best straight line to describe the relationship.. x represents our input data and y represents our prediction.
+ **Simple Linear Regression** uses a single feature \(one independent variable\) to model a linear relationship with a target \(one dependent variable\) by fitting the best straight line to describe the relationship.. x represents our input data and y represents our prediction.
 
 * y=mx+b
 
 **Multivariable regression**
 
-**Multiple Linear Regression** uses more than one feature to predict a target variable by fitting the best linear relationship.
+ **Multiple Linear Regression** uses more than one feature to predict a target variable by fitting the best linear relationship.
 
 * f\(x,y,z\)=w1x+w2y+w3zf\(x,y,z\)=w1x+w2y+w3z
 
@@ -26,7 +27,9 @@ The variables x,y,zx,y,z represent the attributes, or distinct pieces of informa
 Regression analysis is a strong tool and has many use cases such as the following:
 
 1. Identify the strength of the effect that the independent variable\(s\) have a on a dependent variable
+
 2. Forecast effects or impacts of changes
+
 3. Predicts trends and future values
 
 ## Linear Regression Key Components <a id="fcf0"></a>
@@ -123,7 +126,7 @@ Running a model with different Train-Test Split will lead to different results. 
 
 ### More Detailed Notes:
 
-* [Ml\_Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+*  [Ml\_Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 * More with Better Diagram [\[Stanford\]](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 **Sources**
@@ -133,23 +136,4 @@ Running a model with different Train-Test Split will lead to different results. 
 * [https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R5\_Correlation-Regression/R5\_Correlation-Regression4.html](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R5_Correlation-Regression/R5_Correlation-Regression4.html)
 * [https://towardsdatascience.com/verifying-and-tackling-the-assumptions-of-linear-regression](https://towardsdatascience.com/verifying-and-tackling-the-assumptions-of-linear-regression-32126acea67b#:~:text=Linear%20regression%20relies%20on%20five,upon%20them%20is%20especially%20important.&text=Despite%20its%20apparent%20simplicity%2C%20it,independence%20and%20normality%20of%20errors%29.)
 * [https://www.vernier.com/til/1014](https://www.vernier.com/til/1014)
-=======
-# Readme.md
-
-### 
-
-A few interesting topics to pay attention to in the next few years if you are an ML engineer/researcher:
-
-* simulations
-* model compression
-* hybrid AI
-* knowledge bases
-* ML Ops
-* NLP
-* deep reinforcement learning
-* dynamic networks
-* observability
-* multimodal learning
-* GNNs
->>>>>>> origin/master
 

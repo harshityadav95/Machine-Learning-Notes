@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Linear Regression](README.md)
+* [Readme.md](README.md)
 * [Bayes’ Rule](bayes-rule.md)
 * [Laplace Smoothing](laplace-smoothing.md)
 * [Logistic Regression](logistic-regression.md)
 * [Visualisation](visualisation.md)
-* [Version Control](version-control.md)
+* [Version Control In ML Models](version-control.md)
 * [Natural Language Processing](natural-language-processing.md)
 * [Tools](tools.md)
 
@@ -27,11 +27,14 @@
 
 ## Algorithms
 
-* [Algo List](algorithms/algo-list.md)
+* [Algorithm List](algorithms/algo-list.md)
+* [K-Nearest Neighbors](algorithms/k-nearest-neighbors.md)
+* [DBSCAN](algorithms/untitled.md)
 
 ## Natural Language processing <a id="natural-language-processing-1"></a>
 
 * [Language Translation](natural-language-processing-1/language-translation.md)
+* [Autocorrect](natural-language-processing-1/autocorrect.md)
 * [Twitter Sentiment Classifier](natural-language-processing-1/twitter-sentiment-classifier.md)
 
 ---
@@ -49,4 +52,16 @@
 
 * [Glossary and Terms](glossary-and-terms.md)
 * [AI-900T00-A](ai-900t00-a.md)
+* [Linear Regression](linear-regression.md)
+* [Viterbi Algorithm](untitled.md)
+* [Part of Speech Tagging](part-of-speech-tagging.md)
+* [Markov Chain](markov-chain.md)
+* [N-Grams](n-grams.md)
+* [Mode Accuracy](mode-accuracy.md)
+* [Word Embeddings](word-embeddings.md)
+* [Types of Data Partioning](types-of-data-partioning.md)
+* [Data Leakage / Target Leakage in Machine Learning](data-leakage-target-leakage-in-machine-learning.md)
+* [Dev Playgrounds](dev-playgrounds.md)
+* [\_\_\_ 2vec](___-2vec.md)
+* [ML Approaches](ml-approaches.md)
 
